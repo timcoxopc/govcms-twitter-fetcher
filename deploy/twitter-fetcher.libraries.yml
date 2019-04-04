@@ -1,0 +1,6 @@
+twitter:
+  css:
+    theme:
+      css/twitter.css: {}
+  js:
+    js/twitter.js: {}

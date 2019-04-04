@@ -1,0 +1,37 @@
+
+.tweet-list {
+  padding-inline-start: 0;
+  margin-block-start: 0.2em;
+}
+
+.tweet-list li {
+  list-style:none;
+  overflow:hidden;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom:1px solid #dedede;
+}
+    
+.tweet-list li:hover {
+  background-color:#f0f3fb;
+}
+
+.tweet {
+  width:100%;
+  line-height: 1.35;
+}
+
+.tweet a {
+  text-decoration: none;
+}
+
+.au-body .interact {
+  margin-top: 0.4em;
+  margin-bottom: 0.6em;
+}
+
+.interact a {
+  float:left;
+  text-decoration: none;
+}
+
