@@ -10,6 +10,7 @@ Coded by Jason Mayes 2015.
 www.jasonmayes.com
 
 ## Intructions
+Everything needed is inside the deploy folder.
 1. Copy files inside CSS and JS folders into matching folders inside your theme.
 2. Add the contents of twitter-fetcher.libraries and twitter-fetcher.theme into the matching files in you theme
 3. And the contents of block HTML to a block you want to display your twitter feed.
